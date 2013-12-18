@@ -10,3 +10,4 @@ GitLab recipes for setup on different platforms, update etc...
     # App Version: 5.0
 
 ### New line by Peter van der Meulen
+### Amiga is fixed now teehee
